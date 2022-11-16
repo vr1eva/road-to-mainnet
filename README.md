@@ -8,7 +8,8 @@ Material para aprender a hacer todo con Flow
 | 1 | Introducción a Flow | Nov 18, 2022 | Blockchain, Flow, Cadence, Flow CLI, Flow Playground, HelloCadence.cdc | TBD |
 | 2 | Introducción a Cadence | TBA  | Tipos de variables, funciones, control de flujo, tipos compuestos | TBD |
 | 3 | Cadence Avanzado | TBA | Transacciones, cuentas, referencias, interfaces, control de acceso | TBD |
-| 4 | Cadence en Producción | TBA | Dapp, FCL-js, Vue, Nuxt, Nuxt-FCL, Deployment | TBD |
+| 4 | Lenguajes de alto nivel | TBA | Dapp, FCL-js, Vue, Nuxt, Nuxt-FCL | TBD |
+| 5 | Cadence en Producción | TBA | Despliegue en Testnet, Despliegue en Mainnet  | TBD |
 
 ## Indice
 - Introducción a Flow
@@ -29,6 +30,6 @@ Material para aprender a hacer todo con Flow
   - Vue
   - Nuxt
   - Nuxt-FCL
-- Deployment
+- Cadence en Producción
   - Despliegue en Testnet
   - Despliegue en Mainnet 
