@@ -1,31 +1,11 @@
 # flow-facil
-material para aprender a hacer todo con Flow
+Material para aprender a hacer todo con Flow
 
-plan de contenido
-esencial  1. introduccion a flow
-blockchain
-flow
-cadence
-flow cli
-flow playground
-hellocadence.cdc
+## Plan de contenido
 
-esencial 2. introduccion a cadence
-tipos de variables
-funciones
-control de flujo
-tipos compuestos
-
-esencial 3. cadence avanzado
-transacciones
-cuentas
-referencias
-interfaces
-control de acceso
-
-DCL: dapp
-fcl-js
-vue
-nuxt
-nuxt-fcl
-ecommerce
+| Módulo | Título | Fecha de lanzamiento | Contenido | Enlace |
+| --- | --- | --- | --- | --- |
+| 1 | Introducción a Flow | Nov 18, 2022 | Blockchain, Flow, Cadence, Flow CLI, Flow Playground, HelloCadence.cdc | TBD |
+| 2 | Introducción a Cadence | TBA  | Tipos de variables, funciones, control de flujo, tipos compuestos | TBD |
+| 3 | Cadence Avanzado | TBA | Transacciones, cuentas, referencias, interfaces, control de acceso | TBD |
+| 4 | Cadence en Producción | TBA | Dapp, FCL-js, Vue, Nuxt, Nuxt-FCL, Deployment | TBD |
