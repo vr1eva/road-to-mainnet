@@ -17,7 +17,7 @@ Material para aprender a hacer todo con Flow
 - [ ] [Node](https://nodejs.org/es/)
 - [ ] [Yarn](https://yarnpkg.com/)
 - [ ] [VSCode](https://code.visualstudio.com/)
-- [ ] [Flow CLI](https://docs.onflow.org/docs/cli)
+- [ ] [Flow CLI](https://developers.flow.com/tools/flow-cli)
 
 ## Indice
 - Introducción a Flow
