@@ -11,6 +11,14 @@ Material para aprender a hacer todo con Flow
 | 4 | Lenguajes de alto nivel | TBA | Dapp, FCL-js, Vue, Nuxt, Nuxt-FCL | TBD |
 | 5 | Cadence en Producción | TBA | Despliegue en Testnet, Despliegue en Mainnet  | TBD |
 
+### Pre-requisitos
+
+- [ ] [Docker](https://www.docker.com/)
+- [ ] [Node](https://nodejs.org/es/)
+- [ ] [Yarn](https://yarnpkg.com/)
+- [ ] [VSCode](https://code.visualstudio.com/)
+- [ ] [Flow CLI](https://docs.onflow.org/docs/cli)
+
 ## Indice
 - Introducción a Flow
   - Introducción al sistema de cadena de bloques Flow
@@ -33,3 +41,13 @@ Material para aprender a hacer todo con Flow
 - Cadence en Producción
   - Despliegue en Testnet
   - Despliegue en Mainnet 
+
+## Autores
+
+- **Bruno Gonzales** - [Github](github.com/vr1eva/)
+
+## Agradecimientos
+
+- A todos los que apoyaron el proyecto con su donación.
+- Al equipo de Flow por el trabajo que hacen.
+- A los instructores de FrontendMasters por la estructura de sus cursos.
