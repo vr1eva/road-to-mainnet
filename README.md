@@ -1,4 +1,4 @@
-# flow-facil
+# road-to-mainnet
 Material para aprender a hacer todo con Flow
 
 ## Plan de contenido
